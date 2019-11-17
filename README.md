@@ -5,9 +5,9 @@ The main aim of this porject is to develop the 3d view of the facial image by ta
 Credits to :
 co-team mates
 Sai Nitin,
-Harsha Vardhan Chowdary
-Sai Ganesh 
-Reedam jain 
+Harsha Vardhan Chowdary,
+Sai Ganesh ,
+Reedam jain. 
 
 Under the Guidence of 
 Ms. Kamini Joshi
